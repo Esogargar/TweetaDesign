@@ -4,4 +4,4 @@
 
 # Component Pic
 
-![Tweeta Img ](./puplic/TweetComp.png)
+![Tweeta Screenshot](https://github.com/Esogargar/Test/blob/master/TweetCom.png)
