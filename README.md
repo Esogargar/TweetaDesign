@@ -1,4 +1,4 @@
-# Done By (Just design :ok_hand:) Using ReactJS
+# (Simple Tweeta Design :ok_hand:) Using ReactJS Done By
 
 --Israa Gargar
 
