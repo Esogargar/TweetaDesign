@@ -8,7 +8,7 @@
     "@fortawesome/react-fontawesome": "^0.1.7",
     "fa-icons": "^0.1.7",
     "font-awesome": "^4.7.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
